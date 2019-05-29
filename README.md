@@ -7,5 +7,13 @@ I am trying to take hands-on experience on some of this recommendation engine an
 I am using MovieLens data set. MovieLens 100K movie ratings. Stable benchmark dataset. 100,000 ratings from 1000 users on 1700 movies. Released 4/1998.
 [Dataset](https://grouplens.org/datasets/movielens/100k/)
 
+## Method
+
+
+## Result
+
+### Popularity Model Vs. Similarity Model
+
+![alt text](/line_recall_precision.png)
 
 
